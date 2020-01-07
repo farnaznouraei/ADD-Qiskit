@@ -1,4 +1,4 @@
-Advanced Digital Design Project
+#Advanced Digital Design Project
 
 This repo contains modified Qiskit source code and a Jupyter Notebook showing
 the experiments
